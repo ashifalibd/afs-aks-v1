@@ -1,0 +1,15 @@
+https://learn.hashicorp.com/tutorials/terraform/install-cli
+
+https://docs.microsoft.com/en-us/azure/developer/terraform/create-k8s-cluster-with-tf-and-aks
+
+https://docs.microsoft.com/en-us/azure/aks/ingress-basic
+
+https://docs.microsoft.com/en-us/azure/aks/ingress-internal-ip#create-an-ingress-controller
+
+https://learnk8s.io/terraform-aks
+
+https://aymen-segni.com/index.php/2019/12/24/create-a-kubernetes-cluster-with-azure-aks-using-terraform/
+
+https://kubernetes.io/docs/tasks/tools/install-kubectl-windows/
+
+https://www.youtube.com
